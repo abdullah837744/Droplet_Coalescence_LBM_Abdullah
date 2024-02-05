@@ -1,0 +1,23 @@
+768	320	4
+0.10	0.17    3.33  90.
+64.	38.4 1.
+8000000	4.	1.2	  10000
+.TRUE.	.TRUE.	.FALSE.	.TRUE.	.TRUE.	.FALSE.
+
+NX	NY	NZ
+Re	Ca  Pe theta
+Rad Rad2	M_ratio
+M_iter	delta	rratio	Inter
+rho	vels	akw	Walls	ph	pt
+
+THERMODYNAMIC PROPERTIES
+
+AIR AT 25C
+
+DENSITY = 1.184 kg/m^3
+DYNAMIC VISCOSITY = 17.4 mPa s 10^-3
+
+WATER AT 25C
+
+DENSITY = 997.05 kg/m^3
+DYNAMIC VISCOSITY = 893 mPa s 10^-3
